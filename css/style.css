@@ -157,11 +157,11 @@ header {
     padding: 15px 0 10px 0;
     font-weight: bold;
     letter-spacing: 0.2rem; }
-  #news_area .news_li li {
+  #news_area .news_lists li {
     list-style: none;
     font-size: 15px;
     font-size: 1.5rem; }
-    #news_area .news_li li span {
+    #news_area .news_lists li span {
       color: #42b9d0;
       font-weight: bold;
       display: block;
@@ -174,12 +174,12 @@ header {
       color: #42b9d0;
       padding: 50px 0 41px 0;
       letter-spacing: 0.2rem; }
-    #news_area .news_li li {
+    #news_area .news_lists li {
       list-style: none;
       font-size: 14px;
       font-size: 1.4rem;
       margin-bottom: 20px; }
-      #news_area .news_li li span {
+      #news_area .news_lists li span {
         color: #42b9d0;
         font-weight: bold;
         display: inline;
